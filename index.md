@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## ZHI QI WONG
 
-You can use the [editor on GitHub](https://github.com/zhiqiwong/zhiqiwong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Apps respect your preferences concerning the treatment of features provided by mobile device that we may use. This Privacy Policy explains what kind of features we use. Please take a moment to familiarize yourself with our privacy practices.
 
-### Markdown
+BY INSTALLING THE APPS ON YOUR MOBILE DEVICE, ENTERING INTO, CONNECTING TO, ACCESSING AND/OR USING THE APPS, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE POSSIBLE COLLECTION AND PROCESSING OF YOUR INFORMATION AND YOU ARE CONSENTING TO THE USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES ON YOUR DEVICE. PLEASE NOTE: IF YOU OR, AS APPLICABLE, YOUR LEGAL GUARDIAN, DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT INSTALL, ACCESS AND/OR USE THE APPS AND YOU ARE REQUESTED TO PROMPTLY ERASE THEM, AND ANY PART THEREOF, FROM YOUR MOBILE DEVICE.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Links to third-party websites and services
 
-```markdown
-Syntax highlighted code block
+The Apps may contain links to other websites and online services, including third-party advertisements. If you choose to click through to one of these other websites or online services, please note that any information you may provide will be subject to the privacy policy and other terms and conditions of that websites or service, and not to this Privacy Policy. We do not control third-party websites or services, and the fact that a link to such a website or service appears in the Apps does not mean that we endorse them or have approved their policies or practices relating to user information. Before providing any information to any third-party website or service, we encourage you to review the privacy policy and other terms and conditions of that website or service. You agree that we will have no liability for any matters relating to a third-party website or service that you provide information to, including their collection and handling of that information.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact us
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhiqiwong/zhiqiwong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions regarding privacy while using the Apps, or have questions about our practices, please contact us via email at:wongzhiqi2000@outlook.com
