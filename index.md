@@ -12,4 +12,4 @@ The Apps may contain links to other websites and online services, including thir
 
 ### Contact us
 
-If you have any questions regarding privacy while using the Apps, or have questions about our practices, please contact us via email at:wongzhiqi2000@outlook.com
+If you have any questions regarding privacy while using the Apps, or have questions about our practices, please contact us via email at: wongzhiqi2000@outlook.com
